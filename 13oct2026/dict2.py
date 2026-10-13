@@ -8,3 +8,4 @@ for i in range(2):
     d2["age"]=age
     d2["marks"]=marks
     print(d2)
+print(d)    
